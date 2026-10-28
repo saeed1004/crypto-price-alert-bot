@@ -1,0 +1,4 @@
+.env
+alerts.json
+alerts_test.json
+__pycache__/
